@@ -1,0 +1,5 @@
+a = 4
+A = "rohit"
+
+print(a)
+print(A)
