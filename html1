@@ -1,0 +1,4 @@
+x = 5
+y = "rohit"
+print(x)
+print(y)
